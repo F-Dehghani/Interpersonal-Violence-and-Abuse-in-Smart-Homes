@@ -1,7 +1,7 @@
 # Interpersonal-Violence-and-Abuse-in-Smart-Homes
 F.D. Ashkezari, M. Höst, K.S. Adewole, K. Svalin, A. Jacobsson 
 
-This repository contains the supplementary material for the paper  Interpersonal Violence and Abuse in Smart Homes: A Systematic Mapping Study
+This repository contains the supplementary material for the paper  "Interpersonal Violence and Abuse in Smart Homes: A Systematic Mapping Study"
 
 The provided table gives a structured overview of prior work on technology-facilitated abuse in smart home environments, including study methods, abuse mechanisms, and mitigation, detection and response mechanisms.
 
